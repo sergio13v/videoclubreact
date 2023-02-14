@@ -1,0 +1,145 @@
+[
+    {
+        "imagen": "images/uploads/mv1.jpg",
+        "titulo": "Oblivion",
+        "calificacion": "8.1",
+        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Joss Whedon",
+        "reparto": "Robert Downey Jr., Chris Evans, Chris Hemsworth"
+    },
+    {
+        "imagen": "images/uploads/mv2.jpg",
+        "titulo": "Into the wild",
+        "calificacion": "7.8",
+        "descripcion": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": "Chris Evans, Samuel L. Jackson, Scarlett Johansson"
+    },
+    {
+        "imagen": "images/uploads/mv3.jpg",
+        "titulo": "Blade runner",
+        "calificacion": "7.3",
+        "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Peyton Reed",
+        "reparto": "Paul Rudd, Michael Douglas"
+    },
+    {
+        "imagen": "images/uploads/mv4.jpg",
+        "titulo": "Mulholland pride",
+        "calificacion": "7.2",
+        "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Shane Black",
+        "reparto": "Robert Downey Jr., Guy Pearce, Don Cheadle"
+    },
+    {
+        "imagen": "images/uploads/mv5.jpg",
+        "titulo": "Skyfall: evil of boss",
+        "calificacion": "7.0",
+        "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Alan Taylor",
+        "reparto": "Chris Hemsworth, Natalie Portman, Tom Hiddleston"
+    },
+    {
+        "imagen": "images/uploads/mv2.jpg",
+        "titulo": "Into the wild",
+        "calificacion": "7.8",
+        "descripcion": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": "Chris Evans, Samuel L. Jackson, Scarlett Johansson"
+    },
+    {
+        "imagen": "images/uploads/mv3.jpg",
+        "titulo": "Blade runner",
+        "calificacion": "7.3",
+        "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Peyton Reed",
+        "reparto": "Paul Rudd, Michael Douglas"
+    },
+    {
+        "imagen": "images/uploads/mv4.jpg",
+        "titulo": "Mulholland pride",
+        "calificacion": "7.2",
+        "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Shane Black",
+        "reparto": "Robert Downey Jr., Guy Pearce, Don Cheadle"
+    },
+    {
+        "imagen": "images/uploads/mv1.jpg",
+        "titulo": "Oblivion",
+        "calificacion": "8.1",
+        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Joss Whedon",
+        "reparto": "Robert Downey Jr., Chris Evans, Chris Hemsworth"
+    },
+    {
+        "imagen": "images/uploads/mv2.jpg",
+        "titulo": "Into the wild",
+        "calificacion": "7.8",
+        "descripcion": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Anthony Russo, Joe Russo",
+        "reparto": "Chris Evans, Samuel L. Jackson, Scarlett Johansson"
+    },
+    {
+        "imagen": "images/uploads/mv3.jpg",
+        "titulo": "Blade runner",
+        "calificacion": "7.3",
+        "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help...",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Peyton Reed",
+        "reparto": "Paul Rudd, Michael Douglas"
+    },
+    {
+        "imagen": "images/uploads/mv4.jpg",
+        "titulo": "Mulholland pride",
+        "calificacion": "7.2",
+        "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Shane Black",
+        "reparto": "Robert Downey Jr., Guy Pearce, Don Cheadle"
+    },
+    {
+        "imagen": "images/uploads/mv5.jpg",
+        "titulo": "Skyfall: evil of boss",
+        "calificacion": "7.0",
+        "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "duracion": "2h21m",
+        "mmpa": "PG-13",
+        "lanzamiento": "1 May 2015",
+        "director": "Alan Taylor",
+        "reparto": "Chris Hemsworth, Natalie Portman, Tom Hiddleston"
+    }
+]
